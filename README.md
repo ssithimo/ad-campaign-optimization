@@ -15,6 +15,6 @@ Using **Mixed Integer Linear Programming (MILP)** with **CVXPY** 🧮 in Python,
 - Must buy **whole units only** (no fractional ads)
 
 ### ✅ Results:
-- **Total exposure achieved**: 👀 **14,235,000**
-- **Total cost used**: 💵 **$799,000**
-- Campaign focuses on high-return channels like **Evening Newspapers**, **Mid-Day TV**, and **Morning Radio** 📻 📺 🗞️
+- **Total exposure achieved**: **14,235,000** 👀 
+- **Total cost **: **$799,000** 💵 
+- Campaign focuses on high-return channels like **Evening Newspapers** 🗞️, **Mid-Day TV** 📺, and **Morning Radio** 📻
