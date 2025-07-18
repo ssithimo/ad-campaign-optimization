@@ -1,7 +1,7 @@
-# ad-spend-optimization
+# ad-campaign-optimization
 Maximize advertising exposure using mixed integer linear programming (MILP) with integer constraints across magazines, newspapers, TV, and radio under a fixed budget
 
-## 📊 Project Overview: MaxExposure – Ad Spend Optimization
+## 📊 Project Overview: Max Exposure – Ad Campaign Optimization
 
 SALS Marketing Inc. was hired to craft a data-driven advertising strategy 📈 for a major consumer goods company. The goal? To **maximize exposure** across multiple media channels—**Magazines**, **Newspapers**, **Television**, and **Radio**—while staying within a strict budget 💰 and meeting category-specific constraints.
 
