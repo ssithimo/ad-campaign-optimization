@@ -95,5 +95,5 @@ captured the entire category budget:
 ## 📁 Files
 - `notebook/ad_campaign_optimization.ipynb` — Full analysis: problem 
   formulation, MILP solution, naive baseline comparison, and visualizations
-- `Executive_summary_ad_campaign.pdf` — One-page non-technical summary 
+- `executive_summary_sals_ad_campaign.pdf` — One-page non-technical summary 
   for stakeholders
